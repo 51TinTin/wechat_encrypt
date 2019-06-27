@@ -1,0 +1,27 @@
+{
+  "name": "xxwechat",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/51TinTin/wechat_encrypt.git"
+  },
+  "keywords": [
+    "wehcat",
+    "encrypt",
+    "test"
+  ],
+  "author": "hhb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/51TinTin/wechat_encrypt/issues"
+  },
+  "homepage": "https://github.com/51TinTin/wechat_encrypt#readme",
+  "dependencies": {
+    "sha1": "^1.1.1"
+  }
+}
